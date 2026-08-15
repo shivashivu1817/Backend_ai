@@ -1,0 +1,6 @@
+Django==6.0.7
+django-cors-headers==4.9.0
+djangorestframework==3.17.1
+groq==1.6.0
+openai==2.48.0
+python-dotenv==1.2.2
